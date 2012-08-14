@@ -1,0 +1,125 @@
+
+/* For setting up the image scaled in the background */
+/* Detailed here http://css-tricks.com/perfect-full-page-background-image/ */
+html { 
+	background-image: url(/static/ggbridgecolorize.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+        z-index: -99999999;
+}
+
+.fit {
+  max-width: 100%;
+  max-height: 100%;
+}
+.center {
+  display: block;
+  margin: auto;
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, li {
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-weight: inherit;
+font-style: inherit;
+font-size: 100%;
+font-family: inherit;
+vertical-align: baseline;
+}
+
+#profile-box{
+    position: absolute;
+    top: 114px;
+    background-color: rgba(0, 0, 0, 0.83);
+    left: 50%;
+    margin-left: -650px;
+    right: auto;
+    top: 140px;
+}
+
+.profile {
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    left: 50%;
+    overflow: visible;
+    z-index: 0;
+    background-color: transparent;
+    position: absolute;
+    left: 50%;
+    top: 129px;
+    border-radius-topleft: 3px;
+    border-radius-topright: 3px;
+    -moz-border-radius-topleft: 3px;
+    -moz-border-radius-topright: 3px;
+    -webkit-border-top-left-radius: 3px;
+    -webkit-border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    -moz-border-radius-bottomleft: 3px;
+    -moz-border-radius-bottomright: 3px;
+    -webkit-border-bottom-left-radius: 3px;
+    -webkit-border-bottom-right-radius: 3px;
+    border: 1px solid transparent;
+    
+}
+
+
+.profile-head{
+    float: left;
+padding: 20px 20px 15px 20px;
+width: auto;
+min-width: 240px;
+max-width: 840px;
+}
+
+h2.headline {
+font-family: proxima-nova-1,proxima-nova-2, "proxima", Tahoma, Helvetica, Verdana, sans-serif;
+font-size: 22px;
+color: white;
+}
+
+
+h2.headline {
+line-height: 1.2;
+color: white;
+margin: 0;
+margin-bottom: .4em;
+visibility: visible;
+}
+.wf-inactive .typekit, .wf-active .typekit {
+
+}
+h2 {
+font-size: 24px;
+}
+
+
+body{
+    color: #333333;
+    font-family: "proxima",Tahoma,Helvetica,Verdana,sans-serif;
+    font-size: 14px;
+    line-height: 1.3;
+}
+
+
+
+
+
+
+
+
+h1.name {
+font-family: proxima-nova-1,proxima-nova-2, "proxima", Tahoma, Helvetica, Verdana, sans-serif;
+font-size: 64px;
+color: white;
+line-height: 1.1;
+margin: 0 0 .1em 0;
+}
