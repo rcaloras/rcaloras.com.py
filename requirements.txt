@@ -6,7 +6,6 @@ Paste==1.7.5.1
 PasteDeploy==1.5.0
 WebOb==1.2.1
 distribute==0.6.21
-docutils==0.9
 iniparse==0.4
 numpy==1.6.1
 paramiko==1.7.7.1
