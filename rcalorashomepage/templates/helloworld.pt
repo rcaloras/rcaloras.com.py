@@ -13,7 +13,7 @@
   <![endif]-->
   
 <script src="http://code.jquery.com/jquery-latest.js"></script>
-<script type="text/javascript" language="JavaScript">
+<!--<script type="text/javascript" language="JavaScript">
 function set_body_height()
 {
     var wh = $(window).height();
@@ -23,7 +23,7 @@ $(document).ready(function() {
     set_body_height();
     $(window).bind('resize', function() { set_body_height(); });
 });
-</script>
+</script>-->
 </head>
 <body>
   
@@ -31,7 +31,15 @@ $(document).ready(function() {
     <div class="profile-head">
       <h1 class="name">Ryan Caloras</h1>
       <h2 class="headline">Entrepreneur and Software Developer</h2>
+      <div class="profile-divider"></div>
+      <div class="bio">
+        Full time jump shooter, entrepreneur, and hacker.
+        I like to start things, and build stuff.
+        I'm a musician at heart and will talk about music for hours.
+        Always have a bag packed for my next scheme or adventure.
     </div>
+    </div>
+    
   </div>
 </body>
 </html>
