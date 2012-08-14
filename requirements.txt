@@ -6,7 +6,6 @@ Pygments==1.5
 WebOb==1.2.2
 pyramid==1.3.3
 pyramid-debugtoolbar==1.0.2
--e git+git@heroku.com:peaceful-garden-1895.git@a00beb077a7332470032ebf9631d626c25080bd7#egg=rcaloras_homepage-dev
 repoze.lru==0.6
 translationstring==1.1
 venusian==1.0a6
