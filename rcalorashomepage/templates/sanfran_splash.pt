@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:tal="http://xml.zope.org/namespaces/tal">
+<head>
+  <title>Ryan Caloras</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+  <meta name="description" content="Personal Website" />
+  <link rel="shortcut icon" href="${request.static_url('rcalorashomepage:static/favicon.ico')}" />
+  <link rel="stylesheet" href="${request.static_url('rcalorashomepage:static/splash_style.css')}" type="text/css" media="screen" charset="utf-8" />
+</head>
+<body>
+  
+  <div id="profile-box" class="profile">
+    <div class="profile-head">
+      <h1 class="name">Ryan Caloras</h1>
+      <h2 class="headline">Entrepreneur and Software Developer</h2>
+      <div class="profile-divider"></div>
+      <div class="bio">
+        Full time jump shooter, entrepreneur, and hacker.
+        I like to start things, and build stuff.
+        I'm a musician at heart and will talk about music for hours.
+        Always have a bag packed for my next scheme or adventure.
+        
+    </div>
+      <br/>
+      <div class="profile-divider"></div>
+    </div>
+    
+  </div>
+</body>
+</html>
+
+
