@@ -6,6 +6,19 @@
   <meta name="description" content="Personal Website" />
   <link rel="shortcut icon" href="${request.static_url('rcalorashomepage:static/favicon.ico')}" />
   <link rel="stylesheet" href="${request.static_url('rcalorashomepage:static/splash_style.css')}" type="text/css" media="screen" charset="utf-8" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34126911-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 </head>
 <body>
   
