@@ -32,12 +32,42 @@
         I like to start things, and build stuff.
         I'm a musician at heart and will talk about music for hours.
         Always have a bag packed for my next scheme or adventure.
-        
-    </div>
-      <br/>
-      <div class="profile-divider"></div>
-    </div>
+      </div> <!-- End Bio-->
+    </div><!-- End profile-head -->
     
+    <div class="profile-icon-set">
+      <span>
+         <a href="http://github.com/rcaloras" target="_blank">
+         <img style="position: absolute;" class="bottom" src="/static/github_blue_black_cat_34.png" name="Github" title="Github"/>
+         <img tyle="position: absolute;" class="top" src="/static/github-cat-grey-34.png" name="Github" title="Github"/>
+         </a>
+      </span>
+      <span style="position: relative; left:42px;">
+         <a href="http://stackoverflow.com/users/1282124/rccola" target="_blank">
+        <img style="position: absolute;" class="bottom" src="/static/stackoverflow.png" name="Stackoverflow" title="Stackoverflow"/>
+         <img style="position: absolute;" class="top" src="/static/stackoverflow-grey.png" name="Stackoverflow" title="Stackoverflow" />
+         </a>
+      </span>
+       <span style="position: relative; left:84px;">
+         <a href="http://linkedin.com/in/rcaloras" target="_blank">
+        <img style="position: absolute;" class="bottom" src="/static/linkedin.png" name="LinkedIn" title="LinkedIn"/>
+         <img style="position: absolute;" class="top" src="/static/linkedin-grey.png" name="LinkedIn" title="LinkedIn"/>
+         </a>
+      </span>
+       <span style="position: relative; left:124px;">
+         <a href="http://facebook.com/ryan.caloras" target="_blank">
+        <img style="position: absolute;" class="bottom" src="/static/facebook.png" name="Facebook" title="Facebook"/>
+         <img style="position: absolute;" class="top" src="/static/facebook-grey.png" name="Facebook" title="Facebook"/>
+         </a>
+      </span>
+       <span style="position: relative; left:166px;">
+         <a href="http://twitter.com/coolhandjuke" target="_blank">
+        <img style="position: absolute;" class="bottom" src="/static/twitter.png" name="Twitter" title="Twitter"/>
+         <img style="position: absolute;" class="top" src="/static/twitter-grey.png" name="Twitter" title="Twitter"/>
+         </a>
+      </span>
+     
+    </div>
   </div>
 </body>
 </html>
