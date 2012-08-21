@@ -36,11 +36,12 @@
        <div class="profile-divider"></div>
     </div><!-- End profile-head -->
       <div class="projects">
-        <h2 class="headline">Around The Web</h2>
-        <a href="http://www.coolhandjuke.com" target="_blank">
-         <img style="position: absolute;height: 50px;" class="bottom" src="/static/coolhandjuke_icon.png" name="Coolhandjuke" title="Coolhandjuke"/>
-         <img style="position: absolute;height: 50px;" class="top" src="/static/coolhandjuke_icon-grey.png" name="Coolhandjuke" title="Coolhandjuke"/>
-         </a>
+        <h2 class="headline">Around the Web</h2>
+        <a href="http://www.coolhandjuke.com" target="_blank">Coolhandjuke.com</a>
+        .
+        <a href="http://www.cmu.edu/homepage/computing/2010/spring/ryan-caloras.shtml" target="_blank">CMU Digital Music Stand</a>
+        .
+        <a href="http://dl.dropbox.com/u/2877320/resumes/rcalorasS12.pdf" target="_blank">Resume</a>
       </div>
   
     <div class="profile-icon-set">
@@ -70,10 +71,17 @@
       </span>
        <span style="position: relative; left:166px;">
          <a href="http://twitter.com/coolhandjuke" target="_blank">
-        <img style="position: absolute;" class="bottom" src="/static/twitter.png" name="Twitter" title="Twitter"/>
+         <img style="position: absolute;" class="bottom" src="/static/twitter.png" name="Twitter" title="Twitter"/>
          <img style="position: absolute;" class="top" src="/static/twitter-grey.png" name="Twitter" title="Twitter"/>
          </a>
       </span>
+       <span style="position: relative; left:208px;">
+          <a href="http://www.coolhandjuke.com" target="_blank">
+         <img style="position: absolute; " class="bottom" src="/static/penguin_head2.png" name="Coolhandjuke" title="Coolhandjuke"/>
+         <img style="position: absolute; " class="top" src="/static/penguin_head_grey2.png" name="Coolhandjuke" title="Coolhandjuke"/>
+         </a>
+      </span>
+       
      
     </div>
   </div>
