@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:tal="http://xml.zope.org/namespaces/tal">
+<head>
+  <title>Ryan Caloras</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+  <meta name="description" content="Personal Website" />
+  <link rel="shortcut icon" href="${request.static_url('rcalorashomepage:static/favicon.ico')}" />
+  <link rel="stylesheet" href="${request.static_url('rcalorashomepage:static/splash_style.css')}" type="text/css" media="screen" charset="utf-8" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34126911-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+  
+  <div id="profile-box" class="profile">
+    <div class="profile-head">
+      <h1 class="name">Ryan Caloras</h1>
+      <h2 class="headline">Entrepreneur and Software Developer</h2>
+      <div class="profile-divider"></div>
+      <div class="bio">
+        Full time jump shooter, entrepreneur, and hacker.
+        I like to start things, and build stuff.
+        I'm a musician at heart and will talk about music for hours.
+        Always have a bag packed for my next scheme or adventure.
+        
+    </div> <!-- End Bio-->
+    <div class="profile-divider"></div>
+    <div class="profile-icon-set">
+      <a href="http://linkedin.com/in/rcaloras">
+          <img src="/static/linkedin.png" height="32px" width="32px"/>
+        </a>
+      <div id="github-icon">
+        <a href="http://github.com/rcaloras">
+          <img class="bottom" src="/static/github_blue_white_cat_32.png"/>
+          <img class="top" src="/static/github_blue_black_cat_32.png"/>
+        </a>
+        
+      </div>
+      <div id="linkedin-icon">
+        
+        
+      </div>
+      
+    </div>
+    
+  </div>
+</body>
+</html>
+
+

@@ -33,13 +33,21 @@
         I'm a musician at heart and will talk about music for hours.
         Always have a bag packed for my next adventure.
       </div> <!-- End Bio-->
+       <div class="profile-divider"></div>
     </div><!-- End profile-head -->
-    
+      <div class="projects">
+        <h2 class="headline">Around The Web</h2>
+        <a href="http://www.coolhandjuke.com" target="_blank">
+         <img style="position: absolute;height: 50px;" class="bottom" src="/static/coolhandjuke_icon.png" name="Coolhandjuke" title="Coolhandjuke"/>
+         <img style="position: absolute;height: 50px;" class="top" src="/static/coolhandjuke_icon-grey.png" name="Coolhandjuke" title="Coolhandjuke"/>
+         </a>
+      </div>
+  
     <div class="profile-icon-set">
       <span>
          <a href="http://github.com/rcaloras" target="_blank">
          <img style="position: absolute;" class="bottom" src="/static/github_blue_black_cat_34.png" name="Github" title="Github"/>
-         <img tyle="position: absolute;" class="top" src="/static/github-cat-grey-34.png" name="Github" title="Github"/>
+         <img style="position: absolute;" class="top" src="/static/github-cat-grey-34.png" name="Github" title="Github"/>
          </a>
       </span>
       <span style="position: relative; left:42px;">
