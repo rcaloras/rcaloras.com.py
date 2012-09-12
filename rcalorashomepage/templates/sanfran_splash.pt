@@ -41,7 +41,7 @@
         .
         <a href="http://www.cmu.edu/homepage/computing/2010/spring/ryan-caloras.shtml" target="_blank">CMU Digital Music Stand</a>
         .
-        <a href="http://dl.dropbox.com/u/2877320/resumes/rcalorasF12.pdf" target="_blank">Resume</a>
+        <a href="http://dl.dropbox.com/u/2877320/resumes/rcalorasS12.pdf" target="_blank">Resume</a>
       </div>
   
     <div class="profile-icon-set">
@@ -77,8 +77,8 @@
       </span>
        <span style="position: relative; left:208px;">
           <a href="http://www.coolhandjuke.com" target="_blank">
-         <img style="position: absolute;height:32px " class="bottom" src="/static/chj_button2.png" name="Coolhandjuke" title="Coolhandjuke"/>
-         <img style="position: absolute; height:32px; " class="top" src="/static/chj_button2_grey.png" name="Coolhandjuke" title="Coolhandjuke"/>
+         <img style="position: absolute; " class="bottom" src="/static/penguin_head2.png" name="Coolhandjuke" title="Coolhandjuke"/>
+         <img style="position: absolute; " class="top" src="/static/penguin_head_grey2.png" name="Coolhandjuke" title="Coolhandjuke"/>
          </a>
       </span>
        
