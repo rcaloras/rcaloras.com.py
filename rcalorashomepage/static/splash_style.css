@@ -36,7 +36,6 @@ vertical-align: baseline;
 
 #profile-box{
     position: absolute;
-    top: 114px;
     background-color: rgba(0, 0, 0, 0.80);
     left: 8%;
     right: auto;
