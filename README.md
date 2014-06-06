@@ -1,4 +1,4 @@
 rcaloras.com
 ============
 
-Splash page for personal website
+Splash page for personal website.
